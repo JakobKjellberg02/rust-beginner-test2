@@ -1,5 +1,5 @@
 use std::io;
 fn main() {
-    println!("Hello, world!");
-    println!("Testing rust");
+    let mut x = 5;
+    println!("The number is {x}")
 }
